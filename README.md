@@ -372,4 +372,4 @@ This project includes:
 ## Author
 
 Hirun Rajapaksha
-Developed as a machine learning project for crop yield prediction.
+
